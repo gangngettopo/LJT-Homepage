@@ -1,64 +1,26 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "CV"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Ph.D. in Computer Science** (2024-Present) - Hong Kong University of Science and Technology
+- **B.Eng.** (2020-2024) - Shanghai Jiao Tong University
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Research Intern** at MINIMAX (February 2025 - Present)
+- **Research Intern** at Tencent WXG (June 2024 - September 2024)
+- **Research Intern** at Shanghai AI Lab (June 2023 - December 2023)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Honors
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
+
+## Contact
+
+- **Email:** jliugi@connect.ust.hk
+- **GitHub:** https://github.com/Vicent0205
+- **Google Scholar:** https://scholar.google.com/citations?hl=en&amp;user=tbK9jl4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate
